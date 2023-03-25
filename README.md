@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Holaa ビリー・アルファウジ・シーザー Was Here </h1>
+<h3 align="center">Panjang Umur Untuk Semua Hal-Hal Baik 🌻</h3>
 
-<!--
-**Billyalfauzi/BillyAlfauzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=billyalfauzi&label=Profile%20views&color=0e75b6&style=flat" alt="billyalfauzi" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❝**Kek Yang Iya Tapi Enggak**❞
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/billy alfauzi caesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="billy alfauzi caesar" height="30" width="40" /></a>
+<a href="https://instagram.com/bllyalfzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bllyalfzzz" height="30" width="40" /></a>
+</p>
